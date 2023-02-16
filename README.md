@@ -1,5 +1,4 @@
 # Tindog
-A tinder website but for dogs.
+A tinder website for Dogs.
 
-#About TinDog
-dkd
+
